@@ -35,15 +35,38 @@ Ferramentas & DevOps
 <br>
 🎓 Aprendizado Atual
 <div align="center">
-<br>
-Tecnologia
-Nível
-Foco
-⚛️ React Native	Estudando	Desenvolvimento Mobile Multiplataforma
-🎨 Bootstrap	Intermediário	Criação de Layouts Responsivos
-📜 JavaScript	Intermediário	Lógica e Interatividade Web
-🎨 UI/UX	Iniciante	Design de Interfaces e Prototipagem
-
+  <!-- Tabela Atualizada -->
+  <table>
+    <thead>
+      <tr align="center">
+        <th>Tecnologia</th>
+        <th>Nível</th>
+        <th>Foco</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr align="left">
+        <td><b>⚛️ React Native</b></td>
+        <td>Estudando</td>
+        <td>Desenvolvimento Mobile Multiplataforma</td>
+      </tr>
+      <tr align="left">
+        <td><b>🎨 Bootstrap</b></td>
+        <td>Intermediário</td>
+        <td>Criação de Layouts Responsivos</td>
+      </tr>
+      <tr align="left">
+        <td><b>📜 JavaScript</b></td>
+        <td>Intermediário</td>
+        <td>Lógica e Interatividade Web</td>
+      </tr>
+      <tr align="left">
+        <td><b>🎨 UI/UX</b></td>
+        <td>Iniciante</td>
+        <td>Design de Interfaces e Prototipagem</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 <br>
 🏆 Conquistas & Contribuições
