@@ -32,6 +32,7 @@ Ferramentas & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
 </div>
 <br>
+<br>
 🎓 Aprendizado Atual
 <div align="center">
 <br>
