@@ -16,6 +16,7 @@ const kaua = {    nome: "Kauã Amorim",    foco: "Desenvolvedor Front-end",    s
 <br>
 Linguagens & Core
 <br>
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
 <br>
 <br>
