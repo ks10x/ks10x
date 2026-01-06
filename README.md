@@ -9,18 +9,24 @@ const kaua = {    nome: "Kauã Amorim",    foco: "Desenvolvedor Front-end",    s
 <div align="center">
 </div>
 <br>
+<br>
 🛠️ Arsenal Tecnológico
 <div align="center">
+<br>
 <br>
 Linguagens & Core
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
 <br>
+<br>
 Frameworks & Bibliotecas
+<br>
 <br>
 <img src="https://skillicons.dev/icons?i=react,bootstrap&perline=6" />
 <br>
+<br>
 Ferramentas & DevOps
+<br>
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
 </div>
