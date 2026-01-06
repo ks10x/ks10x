@@ -71,7 +71,7 @@ Ferramentas & DevOps
 <br>
 🏆 Conquistas & Contribuições
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ks10x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+
 </div>
 
 <div align="center">
