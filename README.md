@@ -7,32 +7,28 @@
 🎯 Sobre mim
 const kaua = {    nome: "Kauã Amorim",    foco: "Desenvolvedor Front-end",    stack: ["React Native", "Bootstrap", "HTML", "CSS", "JavaScript"],    missao: "Criar interfaces intuitivas e responsivas",    mentalidade: "Foco em UX e código limpo",    status: "Em evolução constante 🚀"};
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ks10x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estatísticas%20GitHub" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ks10x&theme=tokyonight&hide_border=true" />
 </div>
-
+<br>
 🛠️ Arsenal Tecnológico
 <div align="center">
 
 Linguagens & Core
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=6" />
 
 Frameworks & Bibliotecas
+<br>
 <img src="https://skillicons.dev/icons?i=react,bootstrap&perline=6" />
 
 Ferramentas & DevOps
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
 
 </div>
-
-📊 Linguagens Mais Utilizadas
-<div align="center">
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks10x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=800" />
-</div>
-
+<br>
 🎓 Aprendizado Atual
 <div align="center">
-
+<br>
 Tecnologia
 Nível
 Foco
@@ -42,7 +38,7 @@ Foco
 🎨 UI/UX	Iniciante	Design de Interfaces e Prototipagem
 
 </div>
-
+<br>
 🏆 Conquistas & Contribuições
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ks10x&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
@@ -56,7 +52,7 @@ Foco
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ks10x&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
-
+<br>
 🤝 Vamos Conectar?
 <div align="center">
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
